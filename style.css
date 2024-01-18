@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.on{
+    display: none;
+}
+.switch{
+    font-size: 15px;
+    padding: 15px 25px;
+    background-color: red;
+    color: black;
+    border-radius: 3px;
+    border: none;
+    width: 250px;
+}
+.switchon{
+    font-size: 15px;
+    padding: 15px 25px;
+    background-color: green;
+    color: black;
+    border-radius: 3px;
+    border: none;
+    width: 250px;
+}
